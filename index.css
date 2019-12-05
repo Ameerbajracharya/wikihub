@@ -1,0 +1,36 @@
+#search{
+	height: 50px;
+	width: 360px;
+	border: 1px solid #092b40;
+	padding-left: 20px;
+	margin: auto; 
+}
+#search[placeholder]{
+	font-size: 20px;
+}
+.heading{
+	margin: 0;
+	color: #e60a0a !important;
+	font-family: 'Bowlby One', cursive;
+}
+i{
+	color: #e60a0a;
+	font-size: 18px;
+	font-weight: 600;
+	letter-spacing: 2px;
+}
+.searchBox{
+	margin-top: 47px;
+}
+.shortHr {
+	width: 100px;
+	border-bottom: 2px solid #007bff;
+}
+.jumbotron{
+
+	border-radius: 0px !important;
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-image: url('https://upload.wikimedia.org/wikipedia/commons/4/42/Wikipedia_Search.gif');
+}
